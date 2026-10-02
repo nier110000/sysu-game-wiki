@@ -41,6 +41,7 @@ export default defineConfig({
             { text: '专题首页', link: '/spotlight/' },
             { text: '案例观察库', link: '/spotlight/cases' },
             { text: '涌现设计笔记', link: '/spotlight/notes' },
+            { text: '延伸阅读与视频', link: '/spotlight/resources' },
             { text: '讨论记录', link: '/spotlight/discussions' },
             { text: '2D 原型提案', link: '/spotlight/prototype' },
             { text: '最终复盘', link: '/spotlight/retrospective' },
@@ -85,3 +86,4 @@ export default defineConfig({
     darkModeSwitchLabel: '外观',
   },
 })
+
