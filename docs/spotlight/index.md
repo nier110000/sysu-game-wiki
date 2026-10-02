@@ -29,10 +29,12 @@
 
 1. [案例观察库](/spotlight/cases)：从腾讯表格里筛选值得深入讨论的片段。
 2. [涌现设计笔记](/spotlight/notes)：提炼能力、规则、环境与玩家计划之间的关系。
-3. [讨论记录](/spotlight/discussions)：保留分歧、问题和讨论后的共识。
-4. [2D 原型提案](/spotlight/prototype)：把复杂案例压缩成可在 GameJam 中验证的小方案。
-5. [最终复盘](/spotlight/retrospective)：记录原型、测试和正式制作中的判断。
+3. [延伸阅读与视频](/spotlight/resources)：阅读开发者资料与优秀分析，建立共同讨论语境。
+4. [讨论记录](/spotlight/discussions)：保留分歧、问题和讨论后的共识。
+5. [2D 原型提案](/spotlight/prototype)：把复杂案例压缩成可在 GameJam 中验证的小方案。
+6. [最终复盘](/spotlight/retrospective)：记录原型、测试和正式制作中的判断。
 
 ## 你现在可以做什么
 
 找一个具体片段，记下实况链接和时间点；不要急着总结整个游戏。描述玩家获得的能力、限制和关卡问题，再写下至少一种可能解法。如果它让你困惑，也请把“没看懂的地方”留下来——那往往正是最值得讨论的部分。
+
