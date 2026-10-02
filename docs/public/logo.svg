@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="SYSU Game Wiki">
+  <rect width="64" height="64" rx="16" fill="#111827"/>
+  <path d="M18 22h28a8 8 0 0 1 7.5 10.7l-5 14A6 6 0 0 1 39 49l-4.4-3.7a4 4 0 0 0-5.2 0L25 49a6 6 0 0 1-9.5-2.3l-5-14A8 8 0 0 1 18 22Z" fill="#f7c948"/>
+  <path d="M23 29v12M17 35h12" stroke="#111827" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="42" cy="31" r="2.5" fill="#111827"/>
+  <circle cx="47" cy="37" r="2.5" fill="#111827"/>
+</svg>
